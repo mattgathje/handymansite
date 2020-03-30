@@ -9,7 +9,7 @@ banner:
     the value of family and leisure time, and <u>I want to give you more of it!</u>"
   button:
     enable: true
-    label: Submit A Service Request
+    label: "**Submit A Service Request**"
     link: contact
 about:
   enable: true
