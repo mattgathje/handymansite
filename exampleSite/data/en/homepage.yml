@@ -2,9 +2,12 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: You have IMPORTANT things </br> to do with YOUR time
+  content: "<u>Home repairs</u> and improvements shouldn’t <u>take time</u> away from
+    more important things. <b>Let me help YOU</b> by taking that <b>To-Do list</b>
+    off your shoulders, or handling that remodel from start to finish. Handyman M.G.
+    knows the value of family and leisure time, and <u>I want to give you more of
+    it!</u>"
   button:
     enable: true
     label: Submit A Service Request
