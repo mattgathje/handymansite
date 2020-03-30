@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: You have IMPORTANT things </br> to do with YOUR time
+  title: "<b>You have IMPORTANT things </br> to do with YOUR time</b>"
   content: "<u>Home repairs</u> and improvements shouldn’t <u>take time</u> away from
     more important things. <b>Let me help YOU</b> by taking that <b>To-Do list</b>
     off your shoulders, or handling that remodel from start to finish. Handyman M.G.
