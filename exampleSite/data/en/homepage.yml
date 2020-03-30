@@ -44,8 +44,13 @@ service:
   enable: true
   service_item:
   - icon: <i class="far fa-address-book"></i>
+    name: this is it as well
+    content: hi there
+  - icon: <i class="far fa-address-book"></i>
     name: address
     content: this is the stuff I do
+  title: we want great service don't we
+  description: yes we do
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
