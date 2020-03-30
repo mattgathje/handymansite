@@ -2,11 +2,11 @@
 banner:
   enable: true
   bg_image: images/home-bg1.jpg
-  title: "**You have IMPORTANT things </br> to do with YOUR time**"
+  title: "**You have IMPORTANT things to do with YOUR time**"
   content: "***Home repairs*** and improvements shouldn’t ***take time*** away from
     more important things. **Let me help YOU** by taking that **To-Do list** off your
     shoulders, or handling that remodel from start to finish. Handyman M.G. knows
-    the value of family and leisure time, and <u>I want to give you more of it!</u>"
+    the value of family and leisure time, and ***I want to give you more of it!***"
   button:
     enable: true
     label: Submit A Service Request
